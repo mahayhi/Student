@@ -1,10 +1,7 @@
 
 package ca.sheridancollege.week1.softwarefundamentals;
 
-/**
- *
- * @author sidhu376
- */
+//Today's date is 21st January 2020
 public class Student {
     
     private String name;
